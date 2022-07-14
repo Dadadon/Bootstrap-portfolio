@@ -88,3 +88,12 @@ body {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
 }
+
+.p-image {
+  width: 100%;
+}
+
+.l-image {
+  width: 134px;
+  height: 50px;
+}
