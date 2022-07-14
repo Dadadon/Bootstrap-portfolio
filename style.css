@@ -111,3 +111,58 @@ body {
 .about-section {
   border-radius: 0 100px 0 0;
 }
+
+.foot-bg {
+  width: 100%;
+  background-color: #4e5cd4;
+  border-radius: 100px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url(./src/contactformbackgroundd.png);
+  background-position: center bottom;
+  background-size: 90% 85%;
+  background-repeat: no-repeat;
+}
+
+.con-form {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+  gap: 20px;
+}
+
+.form-text {
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 15px;
+  font-family: Poppins, sans-serif;
+}
+
+.foot-text {
+  margin-top: 12rem;
+}
+
+.con-form textarea {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  color: #b3bac5;
+  padding-left: 10px;
+  height: 150px;
+}
+
+.p-button {
+  padding: 12px;
+  border: 1px solid #6171ff;
+  box-sizing: border-box;
+  border-radius: 8px;
+  color: #396df2;
+  text-align: center;
+  max-width: max-content;
+  background: white;
+  transition: color 0.1s;
+  align-self: center;
+}
