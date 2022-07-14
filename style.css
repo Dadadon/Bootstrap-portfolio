@@ -155,14 +155,14 @@ body {
 }
 
 .p-button {
-    padding: 12px;
-    border: 1px solid #6171ff;
-    box-sizing: border-box;
-    border-radius: 8px;
-    color: #396df2;
-    text-align: center;
-    max-width: max-content;
-    background: white;
-    transition: color 0.1s;
-    align-self: center;
+  padding: 12px;
+  border: 1px solid #6171ff;
+  box-sizing: border-box;
+  border-radius: 8px;
+  color: #396df2;
+  text-align: center;
+  max-width: max-content;
+  background: white;
+  transition: color 0.1s;
+  align-self: center;
 }
