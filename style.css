@@ -82,3 +82,10 @@ body {
   margin: 0;
   overflow-x: hidden;
 }
+
+.b-lang {
+  background-color: #ebebff;
+  color: #6070ff;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
